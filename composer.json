@@ -10,11 +10,11 @@
     "require": {
         "php": ">=5.3.0",
         "illuminate/support": "4.x",
-        "hashids/hashids": "*"
+        "hashids/hashids": "0.3.*@dev"
     },
     "autoload": {
         "psr-0": {
-            "Mitch\\Hashids": "src/"
+            "Ludo237\\Hashids": "src/"
         }
     },
     "minimum-stability": "dev",
