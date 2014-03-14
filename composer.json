@@ -5,7 +5,7 @@
         {
             "name": "Mitchell van Wijngaarden",
             "email": "hey@mitchellvanwijngaarden.nl"
-        }
+        },
         {
             "name": "Claudio Ludovico Panetta"
             "twtter": "@Ludo237"
@@ -14,7 +14,7 @@
     "require": {
         "php": ">=5.3.0",
         "illuminate/support": "4.x",
-        "hashids/hashids": "0.3.*@dev"
+        "hashids/hashids": "0.3.*"
     },
     "autoload": {
         "psr-0": {
