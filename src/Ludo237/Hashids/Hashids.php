@@ -1,4 +1,4 @@
-<?php namespace Mitch\Hashids;
+<?php namespace Ludo237\Hashids;
 
 use Illuminate\Support\Facades\Facade;
 
