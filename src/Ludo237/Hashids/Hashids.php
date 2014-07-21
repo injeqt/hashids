@@ -2,6 +2,9 @@
 
 use Illuminate\Support\Facades\Facade;
 
+/**
+ * Facade class for Hashids
+ **/
 class Hashids extends Facade {
 
     /**
