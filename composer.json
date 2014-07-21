@@ -1,6 +1,8 @@
 {
     "name": "ludo237/hashids",
     "description": "Laravel package for Hashids",
+    "license": "MIT",
+    "keywords": ["Laravel", "Hashids", "Hashing", "Security"]
     "authors": [
         {
             "name": "Mitchell van Wijngaarden",
