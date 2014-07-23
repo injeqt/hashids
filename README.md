@@ -10,7 +10,7 @@ Begin by installing the package through Composer. Edit your project's `composer.
 
   ```php
   "require": {
-    "ludo237/hashids": "1.1"
+    "danphyxius/hashids": "1.1"
   }
   ```
 
