@@ -1,5 +1,5 @@
 {
-    "name": "ludo237/hashids",
+    "name": "danphyxius/hashids",
     "description": "Laravel package for Hashids",
     "license": "MIT",
     "keywords": ["Laravel", "Hashids", "Hashing", "Security"],
@@ -11,6 +11,10 @@
         {
             "name": "Claudio Ludovico Panetta",
             "email": "ludo@6go.it"
+        },
+        {
+            "name": "DanPhyxius",
+            "email": "costa.danilo88@gmail.com"
         }
     ],
     "require": {
